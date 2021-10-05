@@ -86,6 +86,7 @@ void controlStateChange(int port, char statetemp)
 
 		updateDatabase(port,statetemp);
 		sleep(1);
+	}
 }
 
 void updateDatabase(int port, int state)
