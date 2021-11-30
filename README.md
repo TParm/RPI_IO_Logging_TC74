@@ -4,7 +4,7 @@ Using a TC74 sensor
 
 ## Run project
 * mkdir build
-cd build
-cmake ../
-make
-sudo 'executable file'
+* cd build
+* cmake ../
+* make
+* sudo 'executable file'
