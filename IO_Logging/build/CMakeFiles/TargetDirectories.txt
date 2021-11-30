@@ -1,0 +1,3 @@
+/home/pi/Documents/opdrachten/RPI_IO_Logging_TC74/IO_Logging/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Documents/opdrachten/RPI_IO_Logging_TC74/IO_Logging/build/CMakeFiles/IO_Logging.dir
+/home/pi/Documents/opdrachten/RPI_IO_Logging_TC74/IO_Logging/build/CMakeFiles/edit_cache.dir
