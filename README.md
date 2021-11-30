@@ -3,7 +3,7 @@ IO logging with C programma and mariaDB database
 Using a TC74 sensor
 
 # Run project
-mkdir build
+mkdir build\n
 cd build
 cmake ../
 make
