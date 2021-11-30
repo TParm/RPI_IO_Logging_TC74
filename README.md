@@ -2,8 +2,8 @@
 IO logging with C programma and mariaDB database
 Using a TC74 sensor
 
-# Run project
-c mkdir build
+## Run project
+* mkdir build
 cd build
 cmake ../
 make
